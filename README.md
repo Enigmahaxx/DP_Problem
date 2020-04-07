@@ -54,4 +54,12 @@
     <td>General</td>
     <td>7/4/20</td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td>DP Blog</td>
+    <td>https://codeforces.com/blog/entry/67679</td>
+    <td>DP</td>
+    <td>7/4/20</td>
+  </tr>
+  
 </table>
