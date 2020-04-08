@@ -29,6 +29,12 @@
     <td>DP</td>
     <td>6/4/20</td>
   </tr>
+  <td>3a</td>
+    <td>DP writeup + Caeser Legion solution</td>
+    <td>https://noi.ph/training/weekly/week3.pdf</td>
+    <td>DP</td>
+    <td>8/4/20</td>
+  </tr>
 </table>
 
 ## Added by - Kshitiz Srivastava
