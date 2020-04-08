@@ -61,5 +61,11 @@
     <td>DP</td>
     <td>7/4/20</td>
   </tr>
-  
+  <tr>
+    <td>4</td>
+    <td>Educational DP Contest</td>
+    <td>https://atcoder.jp/contests/dp/tasks?fbclid=IwAR2uqYPK6PO-siy_TF9VWj7LQSwv_3MeHP7B6Ffrmz7tICkg9HJ324T9MDA</td>
+    <td>DP</td>
+    <td>8/4/20</td>
+  </tr>
 </table>
