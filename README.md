@@ -29,11 +29,19 @@
     <td>DP</td>
     <td>6/4/20</td>
   </tr>
+  <tr>
   <td>3a</td>
     <td>DP writeup + Caeser Legion solution</td>
     <td>https://noi.ph/training/weekly/week3.pdf</td>
     <td>DP</td>
     <td>8/4/20</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Digit Dp blog</td>
+    <td>https://codeforces.com/blog/entry/53960</td>
+    <td>Digit DP</td>
+    <td>10/4/20</td>
   </tr>
 </table>
 
