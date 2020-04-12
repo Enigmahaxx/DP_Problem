@@ -135,7 +135,7 @@
     <td>https://www.geeksforgeeks.org/word-break-problem-dp-32/</td>
     <td>DP</td>
     <td>12/4/20</td>
-    <td><a href="">view</a></td>
+    <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/GFG_WordBreak-1.cpp">view</a></td>
   </tr>
   <tr>
     <td>2</td>
@@ -143,7 +143,7 @@
     <td>https://www.geeksforgeeks.org/word-break-problem-using-backtracking/</td>
     <td>BackTracking</td>
     <td>12/4/20</td>
-    <td><a href="">view</a></td>
+    <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/GFG_WordBreak-2.cpp">view</a></td>
   </tr>
   <tr>
     <td>3</td>
@@ -151,6 +151,6 @@
     <td>https://www.hackerrank.com/contests/hourrank-1/challenges/gcd-groups/problem</td>
     <td>Math/GCD</td>
     <td>12/4/20</td>
-    <td><a href="">view</a></td>
+    <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/HKRNK_GCD_GROUPS.cpp">view</a></td>
   </tr>
 </table>
