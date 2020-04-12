@@ -82,4 +82,25 @@
     <td>DP</td>
     <td>8/4/20</td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>Sereja and Suffixes</td>
+    <td>https://codeforces.com/problemset/problem/368/B</td>
+    <td>DP</td>
+    <td>12/4/20</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Vacations</td>
+    <td>https://codeforces.com/problemset/problem/698/A</td>
+    <td>DP</td>
+    <td>12/4/20</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Cards</td>
+    <td>https://codeforces.com/problemset/problem/626/B</td>
+    <td>DP/Implementation</td>
+    <td>12/4/20</td>
+  </tr>
 </table>
