@@ -91,7 +91,7 @@
     <td>https://atcoder.jp/contests/dp/tasks?fbclid=IwAR2uqYPK6PO-siy_TF9VWj7LQSwv_3MeHP7B6Ffrmz7tICkg9HJ324T9MDA</td>
     <td>DP</td>
     <td>8/4/20</td>
-    <td><a href="#">NA</a></td>
+    <td><a href="https://github.com/Enigmahaxx/DP_Problem/tree/master/Code/Atcoder%20Educational%20DP%20Contest">view</a></td>
   </tr>
   <tr>
     <td>5</td>
