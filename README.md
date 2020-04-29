@@ -49,6 +49,14 @@
     <td>10/4/20</td>
     <td><a href="#">NA</a></td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>Flowers</td>
+    <td>https://codeforces.com/problemset/problem/474/D</td>
+    <td>Single state DP</td>
+    <td>29/4/20</td>
+    <td><a href="#">NA</a></td>
+  </tr>
 </table>
 
 ## Added by - Kshitiz Srivastava
