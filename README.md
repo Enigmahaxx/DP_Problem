@@ -133,6 +133,14 @@
     <td>30/4/20</td>
     <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/1036C_Classy_Numbers.cpp">view</a></td>
   </tr>
+  <tr>
+    <td>9</td>
+    <td>PK and Interesting Language</td>
+    <td>https://www.hackerearth.com/problem/algorithm/pk-and-interesting-language/description/</td>
+    <td>DP with Matrix Exponentiation</td>
+    <td>1/5/20</td>
+    <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/HKERTH_PK_and_interesting_language.cpp">view</a></td>
+  </tr>
 </table>
 
 ## Added by - Ankit Sangwan
