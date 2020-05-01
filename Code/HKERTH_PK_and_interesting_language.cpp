@@ -38,17 +38,6 @@ using namespace std;
 #define F first
 #define S second
 
-ll power(ll x, ll y) {
-    ll res = 1;
-    while (y > 0){
-        if (y & 1)
-            res = ((res % (ll)mod) * (x % (ll)mod)) % (ll)mod;
-        y = y>>1;
-        x = ((x % (ll)mod)*(x % (ll)mod)) % (ll)mod;
-    }
-    return res;
-}
-
 vector<vector<ll> > matrixMultiplication(vector<vector<ll> > &A, vector<vector<ll> > &B) {
     int I = A.size(), K = B.size(), J = B[0].size();
     // Matrix A is I x K, Matrix B is K x J 
@@ -63,9 +52,20 @@ vector<vector<ll> > matrixMultiplication(vector<vector<ll> > &A, vector<vector<l
     return result;
 }
 
+void makeIdentity(vector<vector<ll> > &M) {
+    int n = M.size();
+    for(int i=0;i<n;++i) {
+        for(int j=0; j<n; ++j) {
+            if(i == j) M[i][j] = 1;
+            else M[i][j] = 0;
+        }
+    }
+}
+
 vector<vector<ll> > matrixExponentiation(vector<vector<ll> > M, int x) {
     int n = M.size();
     vector<vector<ll> > result(n, vector<ll>(n, 1));
+    makeIdentity(result);
     while(x>0) {
         if(x&1) result = matrixMultiplication(result, M);
         M = matrixMultiplication(M, M);
@@ -92,7 +92,7 @@ int main(){
         cin >> c >> l;
         allowedExponentiated = matrixExponentiation(allowed, l-1);
         result = matrixMultiplication(initial, allowedExponentiated);
-        cout << ((result[0][((int)c)-97])%mod) * (power(26, mod-2)%mod) % mod << endl;
+        cout << (result[0][((int)c)-97]) % mod << endl;
     }
     return 0;
 }
