@@ -49,6 +49,14 @@
     <td>10/4/20</td>
     <td><a href="#">NA</a></td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>Flowers</td>
+    <td>https://codeforces.com/problemset/problem/474/D</td>
+    <td>Single state DP</td>
+    <td>29/4/20</td>
+    <td><a href="#">NA</a></td>
+  </tr>
 </table>
 
 ## Added by - Kshitiz Srivastava
@@ -91,7 +99,7 @@
     <td>https://atcoder.jp/contests/dp/tasks?fbclid=IwAR2uqYPK6PO-siy_TF9VWj7LQSwv_3MeHP7B6Ffrmz7tICkg9HJ324T9MDA</td>
     <td>DP</td>
     <td>8/4/20</td>
-    <td><a href="#">NA</a></td>
+    <td><a href="https://github.com/Enigmahaxx/DP_Problem/tree/master/Code/Atcoder%20Educational%20DP%20Contest">view</a></td>
   </tr>
   <tr>
     <td>5</td>
@@ -116,6 +124,22 @@
     <td>DP</td>
     <td>12/4/20</td>
     <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/626B_Cards.cpp">view</a></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Classy Numbers</td>
+    <td>https://codeforces.com/problemset/problem/1036/C</td>
+    <td>Digit DP</td>
+    <td>30/4/20</td>
+    <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/1036C_Classy_Numbers.cpp">view</a></td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>PK and Interesting Language</td>
+    <td>https://www.hackerearth.com/problem/algorithm/pk-and-interesting-language/description/</td>
+    <td>DP with Matrix Expo.</td>
+    <td>1/5/20</td>
+    <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/HKERTH_PK_and_interesting_language.cpp">view</a></td>
   </tr>
 </table>
 
