@@ -180,7 +180,7 @@
   <tr>
     <td>4</td>
     <td>Working OUT</td>
-    <td>https://www.hackerrank.com/contests/hourrank-1/challenges/gcd-groups/problem</td>
+    <td>https://codeforces.com/contest/429/problem/B</td>
     <td>DP+GRID</td>
     <td>3/5/20</td>
     <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/CF_Working_out_GRID_DP.cpp">view</a></td>
