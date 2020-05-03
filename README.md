@@ -153,4 +153,12 @@
     <td>12/4/20</td>
     <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/HKRNK_GCD_GROUPS.cpp">view</a></td>
   </tr>
+  <tr>
+    <td>4</td>
+    <td>Working OUT</td>
+    <td>https://www.hackerrank.com/contests/hourrank-1/challenges/gcd-groups/problem</td>
+    <td>DP+GRID</td>
+    <td>3/5/20</td>
+    <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/CF_Working_out_GRID_DP.cpp">view</a></td>
+  </tr>
 </table>
