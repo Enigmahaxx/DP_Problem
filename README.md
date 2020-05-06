@@ -185,4 +185,12 @@
     <td>3/5/20</td>
     <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/CF_Working_out_GRID_DP.cpp">view</a></td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>TSHIRTS</td>
+    <td>https://www.codechef.com/AUG14/problems/TSHIRTS</td>
+    <td>DP+BITMASK</td>
+    <td>6/5/20</td>
+    <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/CC_LITTLE_ELEPHANTS_AND_T-SHIRTS.cpp">view</a></td>
+  </tr>
 </table>
