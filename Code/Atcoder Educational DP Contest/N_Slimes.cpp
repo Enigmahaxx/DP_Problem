@@ -42,7 +42,7 @@ ll dp[405][405], a[405], N, actu[405][405];
 pair<ll,ll> DP(ll i, ll j) {
     if(i >= j) {
         dp[i][j] = actu[i][j] = a[i];
-        return mp(a[i],a[i]);
+        return mp(0,a[i]);
     }
     if(dp[i][j] != -1) return mp(dp[i][j],actu[i][j]);
     pair<ll,ll> ans = mp((ll)1e18,0);
@@ -61,13 +61,13 @@ int main(){
     io
     ll t;
     t = 1;
+    // cin >> t;
     while(t--) {
         cin >> N;
         ll it;
         REP(it,N) cin >> a[it];
         memset(dp, -1, sizeof(dp));
-        pair<ll,ll> FIN = DP(0,N-1);
-        cout << FIN.F - FIN.S << endl;
+        cout << DP(0,N-1).F << endl;
     }
     return 0;
 }
