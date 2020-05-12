@@ -141,6 +141,14 @@
     <td>1/5/20</td>
     <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/HKERTH_PK_and_interesting_language.cpp">view</a></td>
   </tr>
+  <tr>
+    <td>10</td>
+    <td>No. of Ways of Cutting a Pizza</td>
+    <td>https://leetcode.com/contest/weekly-contest-188/problems/number-of-ways-of-cutting-a-pizza/</td>
+    <td>DP</td>
+    <td>12/5/20</td>
+    <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/LEET_1444_Number_of_Ways_of_Cutting_a_Pizza.cpp">view</a></td>
+  </tr>
 </table>
 
 ## Added by - Ankit Sangwan
