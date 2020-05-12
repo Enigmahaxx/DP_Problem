@@ -1,3 +1,6 @@
+/**
+*   @author: Kshitiz Srivastava (Pirate_ksh) @ MNNIT Allahabad
+*/
 class Solution {
 public:
     long long dp[55][55][15], MOD = 1000000007, n, m, k;
