@@ -1,5 +1,6 @@
 /*
 *   @author: Kshitiz Srivastava (pirateksh) @ MNNIT Allahabad
+*   @note: This Question is General Case of Lagest Sum Contiguous Subarray (Kadane's Algorithm)
 */
 class Solution {
 public:
