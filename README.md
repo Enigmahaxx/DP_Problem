@@ -149,6 +149,14 @@
     <td>12/5/20</td>
     <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/LEET_1444_Number_of_Ways_of_Cutting_a_Pizza.cpp">view</a></td>
   </tr>
+  <tr>
+    <td>11</td>
+    <td>Constrained Subsequence Sum</td>
+    <td>https://leetcode.com/problems/constrained-subsequence-sum/</td>
+    <td>Single State DP</td>
+    <td>14/5/20</td>
+    <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/LEET_1425_Constrained_Subsequence_Sum.cpp">view</a></td>
+  </tr>
 </table>
 
 ## Added by - Ankit Sangwan
