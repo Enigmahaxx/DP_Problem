@@ -1,7 +1,8 @@
 /*
 *   @author: Kshitiz Srivastava (Pirateksh) @ MNNIT Allahabad
-*   @note: We will assign "Hats to People" instead of assigning "People to hats" to reduce complexity from
-*          O(m.2^n) to O(n.2^m) where n = 40 and 1 <= m <= 10.
+*   @note: 1. Concept used is DP + Bitmask
+*          2. We will assign "Hats to People" instead of assigning "People to hats" to reduce complexity from
+*             O(m.2^n) to O(n.2^m) where n = 40 and 1 <= m <= 10.
 */
 #define ll long long
 #define vvi vector<vector<int> >
