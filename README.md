@@ -143,7 +143,7 @@
   </tr>
   <tr>
     <td>10</td>
-    <td>No. of Ways of Cutting a Pizza</td>
+    <td># of Ways of Cutting a Pizza</td>
     <td>https://leetcode.com/contest/weekly-contest-188/problems/number-of-ways-of-cutting-a-pizza/</td>
     <td>DP</td>
     <td>12/5/20</td>
@@ -156,6 +156,14 @@
     <td>Single State DP</td>
     <td>14/5/20</td>
     <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/LEET_1425_Constrained_Subsequence_Sum.cpp">view</a></td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td># of Ways to Wear Diff...</td>
+    <td>https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/</td>
+    <td>DP+Bitsmask</td>
+    <td>14/5/20</td>
+    <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/LEET_1434_Number_of_Ways_to_Wear_Different_Hats_to_Each_Other.cpp">view</a></td>
   </tr>
 </table>
 
