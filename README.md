@@ -193,4 +193,13 @@
     <td>6/5/20</td>
     <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/CC_LITTLE_ELEPHANTS_AND_T-SHIRTS.cpp">view</a></td>
   </tr>
+  <tr>
+    <td>6</td>
+    <td>Mobile Numeric KeyPad Problem</td>
+    <td>https://www.geeksforgeeks.org/mobile-numeric-keypad-problem/</td>
+    <td>DP</td>
+    <td>15/5/20</td>
+    <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/GFG_Mobile_Numeric_KeyPad_Problem.cpp">view</a></td>
+  </tr>
+  
 </table>
