@@ -73,6 +73,14 @@
     <td>6/6/20</td>
     <td><a href="#">NA</a></td>
   </tr>
+  <tr>
+    <td>8</td>
+    <td>George and Job</td>
+    <td>https://codeforces.com/problemset/problem/467/C</td>
+    <td> simple DP(tabulation)</td>
+    <td>6/6/20</td>
+    <td><a href="#">NA</a></td>
+  </tr>
 </table>
 
 ## Added by - Kshitiz Srivastava
