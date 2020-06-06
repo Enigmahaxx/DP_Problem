@@ -61,7 +61,15 @@
     <td>6</td>
     <td>Pie Rules</td>
     <td>https://codeforces.com/contest/859/problem/C</td>
-    <td> simple DP</td>
+    <td> simple DP(recursive)</td>
+    <td>6/6/20</td>
+    <td><a href="#">NA</a></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Hard Problem</td>
+    <td>https://codeforces.com/problemset/problem/706/C</td>
+    <td> simple DP(tabulation)</td>
     <td>6/6/20</td>
     <td><a href="#">NA</a></td>
   </tr>
