@@ -57,6 +57,14 @@
     <td>29/4/20</td>
     <td><a href="#">NA</a></td>
   </tr>
+  <tr>
+    <td>6</td>
+    <td>Pie Rules</td>
+    <td>https://codeforces.com/contest/859/problem/C</td>
+    <td> simple DP</td>
+    <td>6/6/20</td>
+    <td><a href="#">NA</a></td>
+  </tr>
 </table>
 
 ## Added by - Kshitiz Srivastava
