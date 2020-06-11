@@ -81,6 +81,22 @@
     <td>6/6/20</td>
     <td><a href="#">NA</a></td>
   </tr>
+  <tr>
+    <td>9</td>
+    <td>Password</td>
+    <td>https://codeforces.com/contest/126/problem/B</td>
+    <td>Rabin karp(Hashing)</td>
+    <td>11/6/20</td>
+    <td><a href="#">NA</a></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Good Substring</td>
+    <td>https://codeforces.com/contest/271/problem/D</td>
+    <td>Rabin karp(Hashing)</td>
+    <td>11/6/20</td>
+    <td><a href="#">NA</a></td>
+  </tr>
 </table>
 
 ## Added by - Kshitiz Srivastava
