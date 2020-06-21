@@ -85,9 +85,9 @@
     <td>9</td>
     <td>Password</td>
     <td>https://codeforces.com/contest/126/problem/B</td>
-    <td>Rabin karp(Hashing)</td>
+    <td>Rabin karp/KMP</td>
     <td>11/6/20</td>
-    <td><a href="#">NA</a></td>
+    <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/CF_126B_Password.cpp">view</a></td>
   </tr>
   <tr>
     <td>10</td>
