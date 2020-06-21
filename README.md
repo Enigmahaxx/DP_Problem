@@ -205,6 +205,14 @@
     <td>14/5/20</td>
     <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/LEET_1434_Number_of_Ways_to_Wear_Different_Hats_to_Each_Other.cpp">view</a></td>
   </tr>
+  <tr>
+    <td>13</td>
+    <td>The Fair Nut and the Best Path</td>
+    <td>https://codeforces.com/contest/1084/problem/D</td>
+    <td>DP on Tree</td>
+    <td>21/6/20</td>
+    <td><a href="https://github.com/Enigmahaxx/DP_Problem/blob/master/Code/CF_D_The_Fair_Nut_and_the_Best_Path.cpp">view</a></td>
+  </tr>
 </table>
 
 ## Added by - Ankit Sangwan
