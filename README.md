@@ -96,6 +96,16 @@
     <td>Rabin karp(Hashing)</td>
     <td>11/6/20</td>
     <td><a href="#">NA</a></td>
+    
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Revision on DP</td>
+    <td>https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns</td>
+    <td>Revision</td>
+    <td>23/8/20</td>
+    <td><a href="#">NA</a></td>
+    
   </tr>
 </table>
 
