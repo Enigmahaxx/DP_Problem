@@ -107,6 +107,15 @@
     <td><a href="#">NA</a></td>
     
   </tr>
+  <tr>
+    <td>12</td>
+    <td>Nearest Beautiful Number</td>
+    <td>https://codeforces.com/contest/1560/problem/F2</td>
+    <td>Digit DP</td>
+    <td>21/2/22</td>
+    <td><a href="#">NA</a></td>
+    
+  </tr>
 </table>
 
 ## Added by - Kshitiz Srivastava
